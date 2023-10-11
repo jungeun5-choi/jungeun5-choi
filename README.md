@@ -1,7 +1,6 @@
-## Hi there 👋
+## 🙋‍♀️ About me
 
-I majored in game technology, <br>
-and now I am studying web development.
+
 
 ## 🔭 Skills
 
@@ -9,8 +8,6 @@ and now I am studying web development.
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![nGrinder](https://img.shields.io/badge/nGrinder-%23ED8B00.svg?style=for-the-badge&logo=naver&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
-... I can also use 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C plus plus](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C Sharp](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  for game client programming.
 
 ## 📬 Contact
 [![Gmail](https://img.shields.io/badge/jungeun5.choi-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jungeun5.choi@gmail.com)](mailto:jungeun5.choi@gmail.com) 
