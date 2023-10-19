@@ -1,5 +1,5 @@
 ## 🙋‍♀️ About me
-
+![jungeun5-choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungeun5-choi&show_icons=true&theme=vue-dark)
 
 
 ## 🔭 Skills
