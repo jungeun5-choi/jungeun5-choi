@@ -29,6 +29,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 #### Testing
+<img src="https://istqb-main-web-prod.s3.amazonaws.com/media/original_images/CTFL_J1Htlr0.png" width="170">
+
 ![nGrinder](https://img.shields.io/badge/nGrinder-%23ED8B00.svg?style=for-the-badge&logo=naver&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) 
 
 #### Office
