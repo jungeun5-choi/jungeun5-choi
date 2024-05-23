@@ -1,4 +1,5 @@
 ## 🙋‍♀️ About me
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" height="120"> <img src="https://istqb-main-web-prod.s3.amazonaws.com/media/original_images/CTFL_J1Htlr0.png" width="120">
 
 ![jungeun5-choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungeun5-choi&show_icons=true&theme=vue-dark)
 
