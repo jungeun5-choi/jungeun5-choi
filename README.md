@@ -1,5 +1,11 @@
 ## 🙋‍♀️ About me
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" height="120"> <img src="https://istqb-main-web-prod.s3.amazonaws.com/media/original_images/CTFL_J1Htlr0.png" width="120">
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" height="120"> <img src="https://istqb-main-web-prod.s3.amazonaws.com/media/original_images/CTFL_J1Htlr0.png" width="120"> <br><br>
+
+```text
+게임학과에서 클라이언트 개발을 공부했습니다.
+현재는 클라우드와 Observability에 관심을 갖고 공부하고 있습니다.
+```
+<br>
 
 ![AWS](https://img.shields.io/badge/amazon_web_service-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) <br>
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe) ![ArgoCD](https://img.shields.io/badge/argo%20CD-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) <br>
